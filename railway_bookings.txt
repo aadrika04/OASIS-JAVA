@@ -1,0 +1,6 @@
+PNR: 1000, Name: AADRIKA, Age: 25, Seat: 60, Train: Rajdhani Express, Class: AC 2-Tier, Fare: 2000
+PNR: 1001, Name: ADITYA, Age: 25, Seat: 16, Train: Rajdhani Express, Class: AC 2-Tier, Fare: 2000
+PNR: 1002, Name: ARADYA, Age: 2, Seat: 40, Train: Rajdhani Express, Class: AC 2-Tier, Fare: 0
+PNR: 1000, Name: aditya, Age: 25, Seat: 54, Train: Rajdhani Express, Class: AC 1-Tier, Fare: 3000, Time: 06:00 AM
+PNR: 1001, Name: aditya, Age: 25, Seat: 97, Train: Rajdhani Express, Class: AC 1-Tier, Fare: 3000, Time: 06:00 AM
+PNR: 1000, Name: aadrika, Age: 45, Seat: 66, Train: Rajdhani Express, Class: Sleeper, Fare: 800, Time: 06:00 AM, Food: No
